@@ -1,4 +1,5 @@
 # FinlandicaText
+![finlandica main image](https://github.com/HelsinkiTypeStudio/FinlandicaText/blob/main/documentation/finlandica-text.png)
 
 The official typeface of Finland commissioned by the Prime ministers office and Business Finland for the promotion of Finnish exports.
 
