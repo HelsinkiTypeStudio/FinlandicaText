@@ -19,7 +19,10 @@ DisplayStrings = (
 "/_part.ii-cy.alt",
 "И/brevecomb-cy Й̆ий̆/ii-cy.loclBGR/iishort-cy.loclBGR",
 "ѝ̀иѝ",
-"̆ий"
+"̆ий",
+"",
+"ӆ",
+"Ĳ"
 );
 axes = (
 {
@@ -38,7 +41,7 @@ name = Ydiacritics;
 },
 {
 automatic = 1;
-code = "A A.ss01 Aacute Aacute.ss01 Abreve Abreve.ss01 Abreveacute Abreveacute.ss01 Abrevedotbelow Abrevedotbelow.ss01 Abrevegrave Abrevegrave.ss01 Abrevehookabove Abrevehookabove.ss01 Abrevetilde Abrevetilde.ss01 Acaron Acaron.ss01 Acircumflex Acircumflex.ss01 Acircumflexacute Acircumflexacute.ss01 Acircumflexdotbelow Acircumflexdotbelow.ss01 Acircumflexgrave Acircumflexgrave.ss01 Acircumflexhookabove Acircumflexhookabove.ss01 Acircumflextilde Acircumflextilde.ss01 Adblgrave Adblgrave.ss01 Adieresis Adieresis.ss01 Adieresismacron Adieresismacron.ss01 Adotbelow Adotbelow.ss01 Agrave Agrave.ss01 Ahookabove Ahookabove.ss01 Ainvertedbreve Ainvertedbreve.ss01 Amacron Amacron.ss01 Aogonek Aogonek.ss01 Aring Aring.ss01 Aringacute Aringacute.ss01 Atilde Atilde.ss01 AE AE.ss01 AEacute AEacute.001 B Bdotbelow Bstroke C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Dcaron Dcroat Ddotbelow Dmacronbelow Dzcaron Eth E Eacute Ebreve Ecaron Ecedilla Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde Schwa Ezh Ezhcaron F G G.ss01 Gbreve Gbreve.ss01 Gcaron Gcaron.ss01 Gcircumflex Gcircumflex.ss01 Gcommaaccent Gcommaaccent.ss01 Gdotaccent Gdotaccent.ss01 Gmacron Gmacron.ss01 Gstroke H Hbar Hbrevebelow Hcircumflex Hdotbelow I I.ss01 IJ IJ.ss01 Iacute Iacute.ss01 Ibreve Ibreve.ss01 Icaron Icircumflex Icircumflex.ss01 Idblgrave Idblgrave.ss01 Idieresis Idieresis.ss01 Idieresisacute Idieresisacute.ss01 Idotaccent Idotaccent.ss01 Idotbelow Idotbelow.ss01 Igrave Igrave.ss01 Ihookabove Ihookabove.ss01 Iinvertedbreve Iinvertedbreve.ss01 Imacron Imacron.ss01 Iogonek Iogonek.ss01 Itilde Itilde.ss01 J J.ss01 Jacute Jacute.ss01 Jcircumflex Jcircumflex.ss01 K Kcaron Kcommaaccent L LJ LJ.ss01 Lacute Lcaron Lcommaaccent Lcommaaccent.loclMAH Ldot Ldotbelow Lj Lj.ss01 Lmacronbelow Lslash M Macute Mdotbelow N NJ NJ.ss01 Nacute Ncaron Ncommaaccent Ncommaaccent.loclMAH Ndotaccent Ndotbelow Nhookleft Nj Nj.ss01 Nmacronbelow Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rmacronbelow S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Z.ss01 Zacute Zacute.ss01 Zcaron Zcaron.ss01 Zdotaccent Zdotaccent.ss01 Zdotbelow Zdotbelow.ss01 Saltillo I_J.loclNLD I_J.loclNLD.ss01 A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy Gedescender-cy Ghestroke-cy Ghemiddlehook-cy De-cy De-cy.loclBGR Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy El-cy.loclBGR Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ef-cy.loclBGR Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy I-cy.ss01 Yi-cy Yi-cy.ss01 Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Omega-cy Yat-cy Eiotified-cy Yuslittle-cy Yuslittleiotified-cy Yusbig-cy Yusbigiotified-cy Ksi-cy Psi-cy Fita-cy Izhitsa-cy Izhitsadblgrave-cy Uk-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Esdescender-cy.loclCHU Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy We-cy Koppa-cy Semisoftsign-cy Ertick-cy Delta Omega";
+code = "A A.ss01 Aacute Aacute.ss01 Abreve Abreve.ss01 Abreveacute Abreveacute.ss01 Abrevedotbelow Abrevedotbelow.ss01 Abrevegrave Abrevegrave.ss01 Abrevehookabove Abrevehookabove.ss01 Abrevetilde Abrevetilde.ss01 Acaron Acaron.ss01 Acircumflex Acircumflex.ss01 Acircumflexacute Acircumflexacute.ss01 Acircumflexdotbelow Acircumflexdotbelow.ss01 Acircumflexgrave Acircumflexgrave.ss01 Acircumflexhookabove Acircumflexhookabove.ss01 Acircumflextilde Acircumflextilde.ss01 Adblgrave Adblgrave.ss01 Adieresis Adieresis.ss01 Adieresismacron Adieresismacron.ss01 Adotbelow Adotbelow.ss01 Agrave Agrave.ss01 Ahookabove Ahookabove.ss01 Ainvertedbreve Ainvertedbreve.ss01 Amacron Amacron.ss01 Aogonek Aogonek.ss01 Aring Aring.ss01 Aringacute Aringacute.ss01 Atilde Atilde.ss01 AE AE.ss01 AEacute B Bdotbelow Bstroke C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Dcaron Dcroat Ddotbelow Dmacronbelow Dzcaron Eth E Eacute Ebreve Ecaron Ecedilla Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde Schwa Ezh Ezhcaron F G G.ss01 Gbreve Gbreve.ss01 Gcaron Gcaron.ss01 Gcircumflex Gcircumflex.ss01 Gcommaaccent Gcommaaccent.ss01 Gdotaccent Gdotaccent.ss01 Gmacron Gmacron.ss01 Gstroke H Hbar Hbrevebelow Hcircumflex Hdotbelow I I.ss01 IJ IJ.ss01 Iacute Iacute.ss01 Ibreve Ibreve.ss01 Icaron Icircumflex Icircumflex.ss01 Idblgrave Idblgrave.ss01 Idieresis Idieresis.ss01 Idieresisacute Idieresisacute.ss01 Idotaccent Idotaccent.ss01 Idotbelow Idotbelow.ss01 Igrave Igrave.ss01 Ihookabove Ihookabove.ss01 Iinvertedbreve Iinvertedbreve.ss01 Imacron Imacron.ss01 Iogonek Iogonek.ss01 Istroke Itilde Itilde.ss01 J J.ss01 Jacute Jacute.ss01 Jcircumflex Jcircumflex.ss01 K Kcaron Kcommaaccent L LJ LJ.ss01 Lacute Lcaron Lcommaaccent Lcommaaccent.loclMAH Ldot Ldotbelow Lj Lj.ss01 Lmacronbelow Lslash M Macute Mdotbelow N NJ NJ.ss01 Nacute Ncaron Ncommaaccent Ncommaaccent.loclMAH Ndotaccent Ndotbelow Nhookleft Nj Nj.ss01 Nmacronbelow Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rmacronbelow S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tmacronbelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Z.ss01 Zacute Zacute.ss01 Zcaron Zcaron.ss01 Zdotaccent Zdotaccent.ss01 Zdotbelow Zdotbelow.ss01 Saltillo I_J.loclNLD I_J.loclNLD.ss01 A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy Gedescender-cy Ghestroke-cy Ghemiddlehook-cy De-cy De-cy.loclBGR Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy El-cy.loclBGR Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ef-cy.loclBGR Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy I-cy.ss01 Yi-cy Yi-cy.ss01 Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Omega-cy Yat-cy Eiotified-cy Yuslittle-cy Yuslittleiotified-cy Yusbig-cy Yusbigiotified-cy Ksi-cy Psi-cy Fita-cy Izhitsa-cy Izhitsadblgrave-cy Uk-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Esdescender-cy.loclCHU Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy We-cy Koppa-cy Semisoftsign-cy Ertick-cy Delta Omega";
 name = Uppercase;
 }
 );
@@ -71,6 +74,10 @@ value = 1;
 {
 name = "Enforce Compatibility Check";
 value = 1;
+},
+{
+name = "Prevent Name ID";
+value = "16,17";
 }
 );
 date = "2025-03-13 13:26:11 +0000";
@@ -681,7 +688,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1110;
 },
 {
 name = winDescent;
@@ -813,7 +820,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1110;
 },
 {
 name = winDescent;
@@ -895,7 +902,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1110;
 },
 {
 name = winDescent;
@@ -3973,52 +3980,6 @@ width = 975;
 }
 );
 unicode = 508;
-},
-{
-color = 4;
-glyphname = AEacute.001;
-lastChange = "2025-01-19 15:27:37 +0000";
-layers = (
-{
-layerId = "A5EF4BC6-6509-4D3B-8B47-D449F40BB885";
-shapes = (
-{
-ref = AE;
-},
-{
-pos = (202,178);
-ref = acutecomb;
-}
-);
-width = 917;
-},
-{
-layerId = "A22F00EF-5553-43E5-A27F-95FD0E0BDB40";
-shapes = (
-{
-ref = AE;
-},
-{
-pos = (220,164);
-ref = acutecomb;
-}
-);
-width = 975;
-},
-{
-layerId = "0EDB233F-674C-46BF-8D38-84A6CD2C2EDF";
-shapes = (
-{
-ref = AE;
-},
-{
-pos = (310,154);
-ref = acutecomb;
-}
-);
-width = 1033;
-}
-);
 },
 {
 glyphname = B;
@@ -113171,6 +113132,10 @@ name = "Remove Glyphs";
 value = (
 "*.ss01"
 );
+},
+{
+name = "Export DSIG Table";
+value = 0;
 }
 );
 instanceInterpolations = {
