@@ -22,7 +22,9 @@ DisplayStrings = (
 "̆ий",
 "",
 "ӆ",
-"Ĳ"
+"Ĳ",
+"Ɨ",
+"ĳʼnŉ/i_j.loclNLD/one.numr/two.dnom ½¼¾⅛⅜⅝⅞„Ǆǅǈǋǆịǉǌ̀ЀЕЁЌӒӚӦЫӸѐёйѝўіїјӓиӣӥӧӯӱӳ⅓⅔₀₁₂₃₄₅₆₇₈₉"
 );
 axes = (
 {
@@ -11679,7 +11681,7 @@ width = 362;
 },
 {
 glyphname = Istroke;
-lastChange = "2026-01-16 13:03:12 +0000";
+lastChange = "2026-01-30 09:55:54 +0000";
 layers = (
 {
 layerId = "A5EF4BC6-6509-4D3B-8B47-D449F40BB885";
