@@ -91,8 +91,13 @@ name = "Enforce Compatibility Check";
 value = 1;
 },
 {
+disabled = 1;
 name = "Prevent Name ID";
 value = "16,17";
+},
+{
+name = "Export DSIG Table";
+value = 0;
 }
 );
 date = "2025-03-13 13:26:11 +0000";
@@ -703,7 +708,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1110;
+value = 1143;
 },
 {
 name = winDescent;
@@ -835,7 +840,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1110;
+value = 1143;
 },
 {
 name = winDescent;
@@ -917,7 +922,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1110;
+value = 1143;
 },
 {
 name = winDescent;
