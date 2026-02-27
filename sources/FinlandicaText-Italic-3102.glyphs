@@ -156,7 +156,6 @@ name = "Enforce Compatibility Check";
 value = 1;
 },
 {
-disabled = 1;
 name = "Prevent Name ID";
 value = "16,17";
 },
