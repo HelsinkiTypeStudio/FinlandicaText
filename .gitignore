@@ -7,9 +7,5 @@ gf-env/
 __pycache__/
 *.pyc
 
-# Font build artifacts (jos generoitavat)
-build/
-*.log
-
 # OS
 .DS_Store
