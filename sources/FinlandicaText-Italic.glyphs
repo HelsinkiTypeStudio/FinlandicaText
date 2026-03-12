@@ -1,113 +1,6 @@
 {
-.appVersion = "3434";
+.appVersion = "3516";
 .formatVersion = 3;
-DisplayStrings = (
-"BY
-LY
-YO
-ko
-ky
-ro
-so
-vo
-01
-'n
-o'
-(v
-(O
-
-HH
-OH
-TH
-VH
-fu
-on
-rn
-tn
-vn
-00
-l.
-n[
-H|
-l-
-l'
-H'
-ut
-un
-
-rt
-tv
-'v
-",
-"model
-AT  AY CO LY TJ UA VO YA YO 
-BH GH HH HO HS HT HV II SH SO
-FO FT LA  
-
-auto
-AA II AV PJ LH OQ СФ
-
-
-Bo Ho Ro Rv To Vo Hn
-Eh Fo Tw An Bn El
-Fi On rf tz
-
-auto
-Tw
-
-model
-fo ft ko ot ov ro ss fn al
-rr tt vr цј on rn tn vi
-do no ua ut uv nn nl
-co nt nv la
-
-u. u¿ H! H: H? n- u· u• H•
-d' H* H# H@ 0# 0% u) H) 
-ďt ľk ri ďl a. cn 
-v. H. u?
-H· H– H'
-
-
-
-nirnid nikyid 
-nicoid niooid ",
-"C/_part.stroke Э",
-"¨˙`´/acute_dotaccentcomb ˝ˆˇ˘˚˜/tilde_acutecomb ¯¸˛ʼʹˈ
-```
-what you geṯrṟ
-```",
-"ɨ",
-"/_part.stroke/_part.stroke IƗ",
-"/Idotbelow.ss01/i.ss01 и/brevecomb-cy и/ii-cy.loclBGR ѝ/iishort-cy.loclBGR й/nj.ss01/lj.ss01/i.ss01 ı/idotbelow.ss01 ị/icaron.ss01 ǐ/Nj.ss01 ǋи/Lj.ss01 ǈ̀ѝL/commaaccentcomb.loclMAH/Lcommaaccent.loclMAH/commaaccentcomb.loclMAH/lcommaaccent.loclMAH L̦Ļ",
-"/dieresiscomb_acutecomb/dieresiscomb_macroncomb/dotaccentcomb_macroncomb ̀/acutecomb_dotaccentcomb ̋/ringcomb_acutecomb/tildecomb_dieresiscomb/tildecomb_acutecomb/tildecomb_macroncomb/macroncomb_dieresiscomb/macroncomb_gravecomb/macroncomb_acutecomb ̣̮̯̱̏̑/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ¨˙`´/acute_dotaccentcomb ˝ˆˇ˘˚˜/tilde_acutecomb ¯",
-"ĳʼnŉ/i_j.loclNLD/one.numr/two.dnom ½/one.numr/four.dnom ¼/three.numr ¾⁸/eight.dnom ⅛⅜/five.numr/eight.dnom ⅝/seven.numr ⅞”„Ǆǅǈǋǆịǉǌ̀ЕЀЕЁКЌАӒӘӚӦЫӸеѐёийѝуўiіїј̈аӓӣ. ӣиӣӥӥоӧӯӯ̈ӱ̋ӳ/one.numr/three.dnom ⅓/two.numr/three.dnom/three.dnom/three.dnom ⅔/zero.dnom ₀/one.dnom ₁/two.dnom ₂/three.dnom ₃/four.dnom ₄/five.dnom ₅/six.dnom ₆/seven.dnom ₇/eight.dnom ₈/nine.dnom ₉",
-"ОӦ",
-"ĳŉ/i_j.loclNLD ½¼¾⅛⅜⅝⅞„ǄǅǈǋǆịǉǌЀЁЌӒӚӦӸѐёйѝўіїјӓӣӥӧӯӱӳ⅓⅔₀₁₂₃₄₅₆₇₈₉",
-"ћђԧр",
-"ћђԧр",
-"ћђԧр",
-"ħћħđ̨˛ÐĐ/hbar.001 ђԧр",
-"һ/_part.descender-cy һԧр",
-"̨˛pр",
-"ƠỚơớ",
-"ƯỨưứỚớ",
-"ỜỜơờ",
-"Ớớ
-ỜƠỜơờ
-/I_J.loclNLD/I_J.loclNLD.ss01/i_j.loclNLD/i_j.loclNLD.ss01 
-НҢнң
-Ç/Esdescender-cy.loclCHU ç/esdescender-cy.loclCHU 
-ѢҌѣҍ
-ӚӚәӛ
-̈cэӭ
-тҭ",
-"ËṎëṏӜӞӬӴӝӟӭӵ
-
-̈cэӭ
-тҭ",
-"ҺЧӴӵ",
-"Ҿҽҿ"
-);
 axes = (
 {
 name = Weight;
@@ -785,6 +678,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 id = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
@@ -902,6 +804,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 id = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
@@ -986,6 +897,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 iconName = Bold;
@@ -37574,15 +37494,17 @@ unicode = 7751;
 {
 glyphname = nhookleft;
 kernRight = KO_n;
-lastChange = "2025-01-19 17:48:57 +0000";
+lastChange = "2026-03-12 14:25:31 +0000";
 layers = (
 {
 layerId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
 shapes = (
 {
+alignment = -1;
 ref = n;
 },
 {
+alignment = -1;
 pos = (-103,0);
 ref = _part.hook;
 }
@@ -37593,9 +37515,11 @@ width = 560;
 layerId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
 shapes = (
 {
+alignment = -1;
 ref = n;
 },
 {
+alignment = -1;
 pos = (-95,0);
 ref = _part.hook;
 }
@@ -37606,9 +37530,11 @@ width = 605;
 layerId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 shapes = (
 {
+alignment = -1;
 ref = n;
 },
 {
+alignment = -1;
 pos = (-98,0);
 ref = _part.hook;
 }
@@ -59859,7 +59785,7 @@ public.markColor = "0,0.67,0.91,1";
 {
 glyphname = "Enghe-cy";
 kernLeft = KO_H;
-lastChange = "2025-01-20 07:45:44 +0000";
+lastChange = "2026-03-12 14:25:31 +0000";
 layers = (
 {
 background = {
@@ -59885,6 +59811,7 @@ alignment = -1;
 ref = "En-cy";
 },
 {
+alignment = -1;
 pos = (420,0);
 ref = _part.stroke.right.case;
 }
@@ -59906,6 +59833,7 @@ alignment = -1;
 ref = "En-cy";
 },
 {
+alignment = -1;
 pos = (474,0);
 ref = _part.stroke.right.case;
 }
@@ -59927,6 +59855,7 @@ alignment = -1;
 ref = "En-cy";
 },
 {
+alignment = -1;
 pos = (524,0);
 ref = _part.stroke.right.case;
 }
@@ -60937,7 +60866,7 @@ public.markColor = "0,0.67,0.91,1";
 {
 glyphname = "Tetse-cy";
 kernRight = "KO_De-cy";
-lastChange = "2025-01-20 07:45:44 +0000";
+lastChange = "2026-03-12 14:25:31 +0000";
 layers = (
 {
 layerId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
@@ -60948,10 +60877,12 @@ pos = (154,0);
 ref = "Tse-cy";
 },
 {
+alignment = -1;
 pos = (104,0);
 ref = _part.stroke.right.case;
 },
 {
+alignment = -1;
 pos = (-166,0);
 ref = _part.stroke.left.case;
 }
@@ -60967,10 +60898,12 @@ pos = (170,0);
 ref = "Tse-cy";
 },
 {
+alignment = -1;
 pos = (190,0);
 ref = _part.stroke.right.case;
 },
 {
+alignment = -1;
 pos = (-161,0);
 ref = _part.stroke.left.case;
 }
@@ -60986,10 +60919,12 @@ pos = (162,0);
 ref = "Tse-cy";
 },
 {
+alignment = -1;
 pos = (256,0);
 ref = _part.stroke.right.case;
 },
 {
+alignment = -1;
 pos = (-171,0);
 ref = _part.stroke.left.case;
 }
@@ -80259,7 +80194,7 @@ public.markColor = "0.97,1,0,1";
 {
 glyphname = "tetse-cy";
 kernRight = "KO_tse-cy";
-lastChange = "2025-01-20 07:45:44 +0000";
+lastChange = "2026-03-12 14:25:31 +0000";
 layers = (
 {
 background = {
@@ -80284,10 +80219,12 @@ pos = (148,0);
 ref = "tse-cy";
 },
 {
+alignment = -1;
 pos = (78,0);
 ref = _part.stroke.right;
 },
 {
+alignment = -1;
 pos = (-167,0);
 ref = _part.stroke.left;
 }
@@ -80317,10 +80254,12 @@ pos = (130,0);
 ref = "tse-cy";
 },
 {
+alignment = -1;
 pos = (101,0);
 ref = _part.stroke.right;
 },
 {
+alignment = -1;
 pos = (-188,0);
 ref = _part.stroke.left;
 }
@@ -80336,10 +80275,12 @@ pos = (110,0);
 ref = "tse-cy";
 },
 {
+alignment = -1;
 pos = (148,0);
 ref = _part.stroke.right;
 },
 {
+alignment = -1;
 pos = (-201,0);
 ref = _part.stroke.left;
 }
@@ -118091,8 +118032,6 @@ pos = (175,251);
 associatedMasterId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
 layerId = "1E7C92D0-5AF9-4551-822E-0C55708CC610";
 name = "19. Jan 25 at 18.31";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118116,8 +118055,6 @@ pos = (205,265);
 associatedMasterId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
 layerId = "F7EDE7E2-AC43-4D5F-A0A8-D41BB8A43709";
 name = "19. Jan 25 at 18.31";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118141,8 +118078,6 @@ pos = (237,280);
 associatedMasterId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 layerId = "5906E509-45E4-4840-A6A2-08757E8D08F1";
 name = "19. Jan 25 at 18.31";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118166,8 +118101,6 @@ pos = (175,251);
 associatedMasterId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
 layerId = "E0C18E6F-56F2-4E81-8EAD-AEFF7D537E8D";
 name = "19. Jan 25 at 18.34";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118191,8 +118124,6 @@ pos = (205,265);
 associatedMasterId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
 layerId = "B51B6149-43B1-445C-8089-13E8CF2DC8F5";
 name = "19. Jan 25 at 18.34";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118216,8 +118147,6 @@ pos = (237,280);
 associatedMasterId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 layerId = "A590FFAD-751D-4FB7-A521-C82DC89DEF7D";
 name = "19. Jan 25 at 18.34";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118259,8 +118188,6 @@ pos = (465,522);
 }
 );
 layerId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118284,8 +118211,6 @@ pos = (465,522);
 associatedMasterId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
 layerId = "C019CC8B-B35A-4A43-8029-F632CB42FBAF";
 name = "Thin Italic Short";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118307,8 +118232,6 @@ pos = (448,536);
 }
 );
 layerId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118332,8 +118255,6 @@ pos = (448,536);
 associatedMasterId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
 layerId = "41E53A25-21CE-4142-97D2-AD9BA48E411E";
 name = "Medium Italic Short";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118355,8 +118276,6 @@ pos = (436,546);
 }
 );
 layerId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118380,8 +118299,6 @@ pos = (436,546);
 associatedMasterId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 layerId = "A996C97A-F3EE-480D-B95B-BD96AFAB8CA3";
 name = "Black Italic Short";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118410,8 +118327,6 @@ pos = (516,700);
 }
 );
 layerId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118435,8 +118350,6 @@ pos = (517,700);
 associatedMasterId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
 layerId = "0BE48B9E-510A-496E-AC8A-3D035DE63F08";
 name = short;
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118458,8 +118371,6 @@ pos = (511,700);
 }
 );
 layerId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118483,8 +118394,6 @@ pos = (512,700);
 associatedMasterId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
 layerId = "D602397C-9B71-4A3C-89A3-748F85FEEB3C";
 name = short;
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118506,8 +118415,6 @@ pos = (500,700);
 }
 );
 layerId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118531,8 +118438,6 @@ pos = (499,700);
 associatedMasterId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 layerId = "B531C564-6A8E-4C3D-AA79-7C1EF77FB65B";
 name = short;
-partSelection = {
-};
 shapes = (
 {
 closed = 1;
@@ -118561,8 +118466,6 @@ pos = (243,522);
 }
 );
 layerId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left;
@@ -118580,8 +118483,6 @@ pos = (448,522);
 associatedMasterId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
 layerId = "B247F9F5-7E54-4E47-9AC9-E4000612FCEB";
 name = "Thin Italic Short";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left;
@@ -118597,8 +118498,6 @@ pos = (266,536);
 }
 );
 layerId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left;
@@ -118616,8 +118515,6 @@ pos = (430,536);
 associatedMasterId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
 layerId = "22D39DE5-53B0-46EC-A41C-99DC9C93DFC5";
 name = "Medium Italic Short";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left;
@@ -118633,8 +118530,6 @@ pos = (280,546);
 }
 );
 layerId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left;
@@ -118652,8 +118547,6 @@ pos = (418,546);
 associatedMasterId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 layerId = "34255871-7ABC-4BA9-8F2E-578CCF9AF299";
 name = "Black Italic Short";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left;
@@ -118676,8 +118569,6 @@ pos = (270,700);
 }
 );
 layerId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left.case;
@@ -118695,8 +118586,6 @@ pos = (498,700);
 associatedMasterId = "62D20235-B81E-4649-AB7B-DFD33366F1EF";
 layerId = "BA04B4AA-331A-474E-B86B-AAF5573F526A";
 name = short;
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left.case;
@@ -118712,8 +118601,6 @@ pos = (274,700);
 }
 );
 layerId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left.case;
@@ -118731,8 +118618,6 @@ pos = (493,700);
 associatedMasterId = "8F4FB2AA-9411-450E-BE3E-D587D5B5F5D1";
 layerId = "01FFDE52-83B2-46C2-ADAB-6899F26BA895";
 name = short;
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left.case;
@@ -118748,8 +118633,6 @@ pos = (283,700);
 }
 );
 layerId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left.case;
@@ -118767,8 +118650,6 @@ pos = (481,700);
 associatedMasterId = "3917E251-E52F-4C58-ACE3-A75BE580C29C";
 layerId = "B0D2E6FB-9BD8-44CA-A0F7-E32570B5552A";
 name = short;
-partSelection = {
-};
 shapes = (
 {
 ref = _part.stroke.left.case;
@@ -119428,6 +119309,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 isItalic = 1;
@@ -119460,6 +119350,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
 }
 );
 isItalic = 1;
@@ -119492,6 +119391,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 isItalic = 1;
@@ -119524,6 +119432,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 isItalic = 1;
@@ -119554,6 +119471,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 isItalic = 1;
@@ -119586,6 +119512,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
 }
 );
 isItalic = 1;
@@ -119618,6 +119553,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 isBold = 1;
@@ -119650,6 +119594,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
 }
 );
 isItalic = 1;
@@ -119682,6 +119635,15 @@ value = (
 {
 name = "Export DSIG Table";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 isItalic = 1;
@@ -154434,7 +154396,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
