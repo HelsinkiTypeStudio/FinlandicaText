@@ -1,11 +1,13 @@
 # FinlandicaText
 ![finlandica main image](https://github.com/HelsinkiTypeStudio/FinlandicaText/blob/main/documentation/finlandica-text.png)
 
-Finlandica Text is part of the official Finlandica type family, commissioned by the Prime Minister’s Office and Business Finland to promote Finnish exports. The design reflects a distinctly Finnish quality: honest and resilient determination sisu. In the spirit of Jokaisenoikeus, the typeface is released as an open-source project.
+Finlandica is the official typeface of Finland, commissioned by the Prime Minister‘s Office, and free to use by everyone in the spirit of Jokaisenoikeus.
 
-Finlandica Text is a formal yet characterful typeface designed for extended reading and versatile use. While its structure is calm and functional, subtle ink traps and carefully engineered details ensure clarity across sizes and media. 
+Finlandica Text has generous proportions and open aperture for optimal legibility, reflecting a Finnish sense of trust and calm functionality. Subtle ink traps and carefully engineered details ensure reliability across sizes and media without losing its character.
 
-Finlandica Text supports modern Latin-based writing systems and most contemporary Cyrillic scripts.
+The companion typeface Finlandica Headline is designed to complement the quiet clarity of Text, with unique character.
+
+Finlandica supports a wide range of Latin and Cyrillic scripts.
 
 ## Authors
 
