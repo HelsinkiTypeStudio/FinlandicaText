@@ -10,3 +10,7 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Local testing
+local/
+sources/config.local.yaml
